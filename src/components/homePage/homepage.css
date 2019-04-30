@@ -1,0 +1,61 @@
+#headshot{
+        height: auto;
+        margin: auto;
+        width: 90%;
+        box-shadow: 3px 4px 10px #000000;
+        border-radius: 50%
+}
+
+#logo{
+        height: auto;
+        width: 25%;
+        margin: auto;
+        position: relative;
+        bottom: 60%;
+}
+
+@media only screen and (min-width: 300px) {
+        #logo {
+          width: 100%;
+        }
+      }
+      @media only screen and (min-width: 600px) {
+        #logo {
+          width: 60%;
+        }
+      }
+      @media only screen and (min-width: 900px) {
+        #logo {
+          width: 40%;
+        }
+      }
+      @media only screen and (min-width: 1400px) {
+        #logo {
+          width: 25%;
+        }
+      }
+
+@media only screen and (min-width: 300px) {
+        #logo {
+          width: 100%;
+        }
+      }
+      @media only screen and (min-width: 600px) {
+        #logo {
+          width: 60%;
+        }
+      }
+      @media only screen and (min-width: 900px) {
+        #logo {
+          width: 40%;
+        }
+      }
+      @media only screen and (min-width: 1400px) {
+        #logo {
+          width: 25%;
+        }
+      }
+
+
+
+
